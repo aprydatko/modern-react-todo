@@ -1,0 +1,5 @@
+{
+  "name": "Modern React Todo Pro",
+  "description": "A production-ready Todo application featuring Redux Toolkit, React Hook Form, Dark Mode via Context API, Protected Routes, and Comprehensive Mock API integration for learning advanced React patterns.",
+  "requestFramePermissions": []
+}
