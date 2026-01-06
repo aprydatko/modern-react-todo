@@ -4,7 +4,7 @@ Quick start and basic checks for the project.
 
 Demo Website: [Link](https://modern-react-todo.netlify.app)
 
-![App Screenshot](/screenchot.png)
+![App Screenshot](https://modern-react-todo.netlify.app/screenshot.png)
 
 Screenshot: Login page for the app (place `screenchot.png` in the `public/` folder so it's included in production builds).
 
